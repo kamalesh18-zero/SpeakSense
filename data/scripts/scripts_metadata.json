@@ -1,0 +1,47 @@
+[
+  {
+    "id": "script_1",
+    "title": "The Power of Clean Water",
+    "category": "persuasive_oratory",
+    "target_duration_sec": 28.0,
+    "transcript": "Access to clean water is not merely a convenience; it is a fundamental human right. Across the globe, millions of children still walk miles each day just to secure a single bucket. When communities gain clean water, disease rates plummet, education flourishes, and local economies thrive. We have both the technology and the resources to solve this crisis. What we urgently need is the collective courage to act.",
+    "description": "Persuasive speech emphasizing social justice and urgent humanitarian action.",
+    "split": "train"
+  },
+  {
+    "id": "script_2",
+    "title": "Artificial Intelligence and Future Labor",
+    "category": "extemporaneous",
+    "target_duration_sec": 30.0,
+    "transcript": "The rapid expansion of artificial intelligence is transforming modern industries at an unprecedented speed. While automation increases efficiency and lowers costs, it simultaneously disrupts traditional labor markets. Workers must adapt by learning digital skills and creative problem solving. Governments and educational institutions bear a direct responsibility to ensure that this technological transition lifts everyone up rather than leaving vulnerable communities behind.",
+    "description": "Analytical extemporaneous speech examining AI economic impacts and policy responses.",
+    "split": "train"
+  },
+  {
+    "id": "script_3",
+    "title": "A Call to Action for Environmental Stewardship",
+    "category": "declamation",
+    "target_duration_sec": 33.0,
+    "transcript": "Look upon our forests, our oceans, and our skies. For generations, we have taken from nature without considering the enduring consequences of our actions. The melting glaciers and rising temperatures are not distant warnings; they are immediate alarms demanding our urgent attention. We cannot afford the luxury of delay. Let this generation be remembered not for indifference, but for defending the delicate balance of our living planet.",
+    "description": "Dramatic declamation advocating global ecological responsibility.",
+    "split": "train"
+  },
+  {
+    "id": "script_4",
+    "title": "The Solitude of Winter Woods",
+    "category": "interpretive_reading",
+    "target_duration_sec": 26.0,
+    "transcript": "There is a profound stillness that descends upon the forest when the first snow arrives. The bare branches stand silent against the pale winter sky, while a gentle mist settles between the pines. In this quiet sanctuary, away from the clamor of bustling cities, one can hear the faint whisper of falling snowflakes and find enduring peace.",
+    "description": "Poetic interpretive reading reflecting serenity and stillness in nature.",
+    "split": "val"
+  },
+  {
+    "id": "script_5",
+    "title": "The Ethics of Space Exploration",
+    "category": "persuasive_oratory",
+    "target_duration_sec": 31.0,
+    "transcript": "As we gaze toward Mars and the distant stars, we must confront an essential ethical question. Are we venturing into space to expand human curiosity and knowledge, or are we simply fleeing the environmental damage we caused on Earth? True progress requires that we heal our home planet even as we reach for new worlds. Exploring space must reflect our highest virtues, not our past mistakes.",
+    "description": "Held-out test speech debating moral responsibility in interstellar exploration.",
+    "split": "test"
+  }
+]
